@@ -7,3 +7,4 @@ def find_max(arr):
 
 arr = [3, 7, 2, 9, 5]
 print("Maximum element is:", find_max(arr))
+#Maximum element is: 9
